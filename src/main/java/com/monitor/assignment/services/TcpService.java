@@ -1,10 +1,10 @@
-package com.globalrelay.assignment.services;
+package com.monitor.assignment.services;
 
-import com.globalrelay.assignment.common.ErrorMessageEnum;
-import com.globalrelay.assignment.common.MapUtil;
-import com.globalrelay.assignment.common.MessageI;
-import com.globalrelay.assignment.common.SuccessMessageEnum;
-import com.globalrelay.assignment.model.HostEntity;
+import com.monitor.assignment.common.ErrorMessageEnum;
+import com.monitor.assignment.common.MapUtil;
+import com.monitor.assignment.common.MessageI;
+import com.monitor.assignment.common.SuccessMessageEnum;
+import com.monitor.assignment.model.HostEntity;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

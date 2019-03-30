@@ -1,4 +1,4 @@
-package com.globalrelay.assignment.services;
+package com.monitor.assignment.services;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.scheduling.annotation.Scheduled;

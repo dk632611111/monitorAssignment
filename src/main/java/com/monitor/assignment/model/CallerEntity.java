@@ -1,6 +1,6 @@
-package com.globalrelay.assignment.model;
+package com.monitor.assignment.model;
 
-import com.globalrelay.assignment.common.MapUtil;
+import com.monitor.assignment.common.MapUtil;
 
 import java.util.HashMap;
 import java.util.Map;

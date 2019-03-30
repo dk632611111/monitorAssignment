@@ -1,11 +1,10 @@
-package com.globalrelay.assignment.services;
+package com.monitor.assignment.services;
 
-import com.globalrelay.assignment.common.MessageI;
+import com.monitor.assignment.common.MessageI;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;
-import java.net.InetAddress;
 import java.net.Socket;
 
 @Service

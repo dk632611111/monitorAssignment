@@ -1,8 +1,8 @@
-package com.globalrelay.assignment;
+package com.monitor.assignment;
 
-import com.globalrelay.assignment.common.ErrorMessageEnum;
-import com.globalrelay.assignment.common.MessageI;
-import com.globalrelay.assignment.common.SuccessMessageEnum;
+import com.monitor.assignment.common.ErrorMessageEnum;
+import com.monitor.assignment.common.MessageI;
+import com.monitor.assignment.common.SuccessMessageEnum;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

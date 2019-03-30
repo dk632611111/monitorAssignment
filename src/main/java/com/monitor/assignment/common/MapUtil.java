@@ -1,4 +1,4 @@
-package com.globalrelay.assignment.common;
+package com.monitor.assignment.common;
 
 public class MapUtil {
 

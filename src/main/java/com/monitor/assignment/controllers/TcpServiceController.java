@@ -1,7 +1,7 @@
-package com.globalrelay.assignment.controllers;
+package com.monitor.assignment.controllers;
 
-import com.globalrelay.assignment.common.MessageI;
-import com.globalrelay.assignment.services.TcpService;
+import com.monitor.assignment.common.MessageI;
+import com.monitor.assignment.services.TcpService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

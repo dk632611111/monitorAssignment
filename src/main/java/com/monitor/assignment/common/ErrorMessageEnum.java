@@ -1,5 +1,5 @@
 
-package com.globalrelay.assignment.common;
+package com.monitor.assignment.common;
 
 import org.springframework.http.HttpStatus;
 

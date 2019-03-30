@@ -1,4 +1,4 @@
-package com.globalrelay.assignment.model;
+package com.monitor.assignment.model;
 
 import java.net.Socket;
 
