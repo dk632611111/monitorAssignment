@@ -1,6 +1,7 @@
 100% working solution of common employment technical assignment.
-
-Technical Assignment
+ 
+ 
+ 
 
 Instructions:
 The code should include a set of unit tests.
