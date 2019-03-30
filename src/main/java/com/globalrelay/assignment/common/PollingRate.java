@@ -1,6 +1,3 @@
-/*
- * Copyright(c) 2019 TaxToken; all rights reserved
- */
 
 package com.globalrelay.assignment.common;
 
